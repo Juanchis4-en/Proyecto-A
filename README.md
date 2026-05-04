@@ -24,3 +24,12 @@ Requisitos pasaporte
 Para incluir un enlace se digita el nombre del sitio
 
 https://www.Youtube.com
+
+Para incluir texto sangrado:
+> "Hacer preguntas"
+> - Rabbit
+
+Subir proyecto a GIT
+-[] git init
+-[] git add .
+-[] git commit -m
