@@ -9,7 +9,7 @@ Esta es una muestra del lenguaje formato MARKDOWN
 *_Combinado-*
 
 Lista
-* Ir a la uni
+* Ir a la uni *I
 * Asistir a clase
 * Ir al D1
   * Comprar pan
@@ -46,3 +46,13 @@ int main(void)
  printf("Hola\n")
 return 0;
 }
+``` 
+
+# Tabla de verdad del AND
+
+A | B | A and B
+--|---|--------
+v | v |   v
+v | f |   f
+f | v |   f
+f | f |   f
