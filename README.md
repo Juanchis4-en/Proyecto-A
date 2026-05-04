@@ -30,6 +30,6 @@ Para incluir texto sangrado:
 > - Rabbit
 
 Subir proyecto a GIT
--[] git init
--[] git add .
--[] git commit -m
+-[ ] git init
+-[ ] git add .
+-[ ] git commit -m
