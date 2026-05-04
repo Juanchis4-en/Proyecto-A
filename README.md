@@ -7,3 +7,9 @@ Esta es una muestra del lenguaje formato MARKDOWN
 *Cursiva*
 
 *_Combinado-*
+
+Lista
+*Ir a la uni
+*Asistir a clase
+*Ir al D1
+*Ir a entrenar
