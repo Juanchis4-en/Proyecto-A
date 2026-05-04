@@ -33,3 +33,16 @@ Subir proyecto a GIT
 - [ ] git init
 - [ ] git add .
 - [ ] git commit -m
+
+Coding example in Python
+```python
+print("This is a program")
+```
+Coding example in C
+```c
+#include <stdio.h>
+int main(void)
+{
+ printf("Hola\n")
+return 0;
+}
